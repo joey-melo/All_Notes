@@ -19,5 +19,15 @@ GIT_SSH_COMMAND='ssh -i id_rsa' git clone git@<ip>:/git-server # Git shell inter
 wget -r http://host.com
 ```
 
+## Push folder to repo
+```shell
+git init
+git branch -M main
+git push -u origin main # use your access token as password
+
+# optional
+git config credential.helper store # so your creds are stored for future use
+```
+
 ## References
 - Hunit - Proving Grounds
