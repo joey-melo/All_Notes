@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "889ff377464b0aba",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c63ccbe1ffa5f9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea0fd868e31deccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Applications/Git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b08a04d3cc654f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "65a6e1dc9e0c83cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c07ee95bbb7b5fb1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3515ef4408e6eab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c38fe288295f93f6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0b23544799dcc57",
+    "type": "split",
+    "children": [
+      {
+        "id": "8490eba1cabb2646",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a185a3596ec3a9a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Applications/Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9993354580ae2ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Applications/Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3fc2c56a302bc67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ad98d383da9bc7ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Applications/Git.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ea0fd868e31deccf",
+  "lastOpenFiles": [
+    "Privilege Escalation/Windows.md",
+    "Checklist/Services.md",
+    "Techniques/Tunneling.md",
+    "Techniques/File Transfer.md",
+    "Techniques/Reverse Shells.md",
+    "Applications/Tunneling/Sshuttle.md",
+    "Applications/Tunneling/Proxychains.md",
+    "Applications/Tunneling/Chisel.md",
+    "Techniques/Add Users.md",
+    "Techniques/Buffer Overflow.md"
+  ]
+}

