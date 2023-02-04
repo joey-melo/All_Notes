@@ -13,3 +13,4 @@ username=admin&password[]=
 ```
 ### References
 - Potato - Vulnhub (https://www.infosecarticles.com/potato-1-vulnhub-walkthrough)
+- OSWE PDF (chapter 4)

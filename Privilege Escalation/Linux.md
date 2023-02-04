@@ -24,12 +24,20 @@ netstat; ss
 /var/backups # backup files
 ```
 
+## Tools
+Pspy:
+```bash
+./pspy
+./pspy -r /opt # watch only /opt folder
+```
+
 ## Docker Escape
 
 ### References
 
 - Sirol - Proving Grounds
 - Deployer - Proving Grounds
+- Shoppy - Hackthebox
 
 ## Code Compilation
 ```bash

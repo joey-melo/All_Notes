@@ -1,4 +1,7 @@
 ## LFI (Local File Inclusion)
+
+Check [[Default files]] for more info on Web Servers.
+
 ### Useful files
 Linux:
 ```
@@ -14,3 +17,9 @@ Windows:
 ```
 C:/boot.ini
 ```
+
+## Postgresql
+Files are commonly only accessible by postgresql user.
+Nonetheless, here are the common directories:
+- /usr/local/pgsql/data/mydb/mytable.table
+- /var/lib/postgresql/

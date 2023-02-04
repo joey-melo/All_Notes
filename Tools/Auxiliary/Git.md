@@ -27,6 +27,8 @@ git push -u origin main # use your access token as password
 
 # optional
 git config credential.helper store # so your creds are stored for future use
+# create access token:
+# https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token#using-a-token-on-the-command-line
 ```
 
 ## References
