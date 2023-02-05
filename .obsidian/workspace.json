@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Auxiliary/Git.md",
+                "file": "Kali Setup/Libraries/Apt/Software update.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19c8ac238c8979e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Client Side Attacks/Clickjacking/placeholder.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Auxiliary/Git.md",
+                "file": "Web/Client Side Attacks/Clickjacking/placeholder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Auxiliary/Git.md",
+                "file": "Web/Client Side Attacks/Clickjacking/placeholder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Auxiliary/Git.md"
+                "file": "Web/Client Side Attacks/Clickjacking/placeholder.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01efc07ce6a016de",
+  "active": "19c8ac238c8979e4",
   "lastOpenFiles": [
+    "Kali Setup/Libraries/Apt/Software update.md",
+    "Tools/Auxiliary/Git.md",
     "Web/Essential Skills/Obfuscating attacks using encodings.md",
     "Web/Source Code Review/Vulnerability Discovery.md",
     "Web/Source Code Review/Default files.md",
@@ -155,8 +170,6 @@
     "Web/Client Side Attacks/Client-Side Prototype Pollution/Labs.md",
     "Web/Client Side Attacks/Client-Side Prototype Pollution/5. How to prevent prototype pollution vulnerabilities.md",
     "Web/Client Side Attacks/Client-Side Prototype Pollution/4. Prototype pollution via broswer APIs.md",
-    "Web/Client Side Attacks/Client-Side Prototype Pollution/3. Finding prototype pollution vulnerabilities.md",
-    "Web/Client Side Attacks/Client-Side Prototype Pollution/Summary.md",
-    "Web/Client Side Attacks/Client-Side Prototype Pollution/2. What is prototype pollution?.md"
+    "Web/Client Side Attacks/Client-Side Prototype Pollution/3. Finding prototype pollution vulnerabilities.md"
   ]
 }
