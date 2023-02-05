@@ -1,88 +1,52 @@
 {
   "main": {
-    "id": "889ff377464b0aba",
+    "id": "3d75aea04dd36da6",
     "type": "split",
     "children": [
       {
-        "id": "c4081e9e71222a8b",
+        "id": "8709bf1d536156d9",
         "type": "tabs",
         "children": [
           {
-            "id": "01efc07ce6a016de",
+            "id": "804c6863b82230a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kali Setup/Libraries/Apt/Software update.md",
+                "file": "Web/Essential Skills/Obfuscating attacks using encodings.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "19c8ac238c8979e4",
+            "id": "9d7fb4273009ff7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Client Side Attacks/Clickjacking/placeholder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56bf97193a29a128",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Server Side Attacks/Access Control and Privilege Escalation/placeholder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c559ab3394a4c3c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kali Setup/Libraries/placeholder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f1adb8203c98829",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Client Side Attacks/Client-Side Prototype Pollution/2. What is prototype pollution.md",
+                "file": "Web/Essential Skills/Using Burp Scanner during manual testing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8b08a04d3cc654f5",
+    "id": "8c23b28b150574d0",
     "type": "split",
     "children": [
       {
-        "id": "65a6e1dc9e0c83cb",
+        "id": "83c037f61f094d5e",
         "type": "tabs",
         "children": [
           {
-            "id": "c07ee95bbb7b5fb1",
+            "id": "e3b2320e8d4ce750",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -92,7 +56,7 @@
             }
           },
           {
-            "id": "e3515ef4408e6eab",
+            "id": "86d9a32fc3c88dd8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -107,7 +71,7 @@
             }
           },
           {
-            "id": "c38fe288295f93f6",
+            "id": "3b4a1bb5c69f04d4",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -118,23 +82,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 300
   },
   "right": {
-    "id": "c0b23544799dcc57",
+    "id": "fe31fbbdd43f729b",
     "type": "split",
     "children": [
       {
-        "id": "8490eba1cabb2646",
+        "id": "2ba424d437a95b54",
         "type": "tabs",
         "children": [
           {
-            "id": "8a185a3596ec3a9a",
+            "id": "ab0bd24bd32aaab5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Client Side Attacks/Client-Side Prototype Pollution/2. What is prototype pollution.md",
+                "file": "Web/Essential Skills/Using Burp Scanner during manual testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,19 +110,19 @@
             }
           },
           {
-            "id": "b9993354580ae2ee",
+            "id": "deeea2a69916a5f6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Client Side Attacks/Client-Side Prototype Pollution/2. What is prototype pollution.md",
+                "file": "Web/Essential Skills/Using Burp Scanner during manual testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b3fc2c56a302bc67",
+            "id": "3058b570f5de5fc4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -169,12 +133,12 @@
             }
           },
           {
-            "id": "ad98d383da9bc7ad",
+            "id": "b7dcff8f283fa1f6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Client Side Attacks/Client-Side Prototype Pollution/2. What is prototype pollution.md"
+                "file": "Web/Essential Skills/Using Burp Scanner during manual testing.md"
               }
             }
           }
@@ -195,17 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f1adb8203c98829",
+  "active": "9d7fb4273009ff7e",
   "lastOpenFiles": [
-    "Kali Setup/placeholder.md",
-    "Kali Setup/Libraries/placeholder.md",
-    "Web/Server Side Attacks/Access Control and Privilege Escalation/placeholder.md",
-    "Web/Client Side Attacks/Clickjacking/placeholder.md",
-    "Kali Setup/Libraries/Apt/Software update.md",
-    "Tools/Auxiliary/Git.md",
     "Web/Essential Skills/Obfuscating attacks using encodings.md",
-    "Web/Source Code Review/Vulnerability Discovery.md",
-    "Web/Source Code Review/Default files.md",
-    "Web/Source Code Review/Decompilation.md"
+    "Web/Client Side Attacks/Clickjacking/placeholder.md"
   ]
 }
