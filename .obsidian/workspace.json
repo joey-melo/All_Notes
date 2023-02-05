@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kali Setup/placeholder.md",
+                "file": "Web/Client Side Attacks/Client-Side Prototype Pollution/2. What is prototype pollution.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kali Setup/placeholder.md",
+                "file": "Web/Client Side Attacks/Client-Side Prototype Pollution/2. What is prototype pollution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kali Setup/placeholder.md",
+                "file": "Web/Client Side Attacks/Client-Side Prototype Pollution/2. What is prototype pollution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kali Setup/placeholder.md"
+                "file": "Web/Client Side Attacks/Client-Side Prototype Pollution/2. What is prototype pollution.md"
               }
             }
           }
@@ -197,6 +197,7 @@
   },
   "active": "4f1adb8203c98829",
   "lastOpenFiles": [
+    "Kali Setup/placeholder.md",
     "Kali Setup/Libraries/placeholder.md",
     "Web/Server Side Attacks/Access Control and Privilege Escalation/placeholder.md",
     "Web/Client Side Attacks/Clickjacking/placeholder.md",
@@ -205,7 +206,6 @@
     "Web/Essential Skills/Obfuscating attacks using encodings.md",
     "Web/Source Code Review/Vulnerability Discovery.md",
     "Web/Source Code Review/Default files.md",
-    "Web/Source Code Review/Decompilation.md",
-    "Web/Client Side Attacks/Client-Side Prototype Pollution/Labs.md"
+    "Web/Source Code Review/Decompilation.md"
   ]
 }
