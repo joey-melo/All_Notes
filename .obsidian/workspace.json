@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "56bf97193a29a128",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Server Side Attacks/Access Control and Privilege Escalation/placeholder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c559ab3394a4c3c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kali Setup/Libraries/placeholder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Client Side Attacks/Clickjacking/placeholder.md",
+                "file": "Kali Setup/Libraries/placeholder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Client Side Attacks/Clickjacking/placeholder.md",
+                "file": "Kali Setup/Libraries/placeholder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Client Side Attacks/Clickjacking/placeholder.md"
+                "file": "Kali Setup/Libraries/placeholder.md"
               }
             }
           }
@@ -159,8 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19c8ac238c8979e4",
+  "active": "c559ab3394a4c3c5",
   "lastOpenFiles": [
+    "Web/Server Side Attacks/Access Control and Privilege Escalation/placeholder.md",
+    "Web/Client Side Attacks/Clickjacking/placeholder.md",
     "Kali Setup/Libraries/Apt/Software update.md",
     "Tools/Auxiliary/Git.md",
     "Web/Essential Skills/Obfuscating attacks using encodings.md",
@@ -168,8 +194,6 @@
     "Web/Source Code Review/Default files.md",
     "Web/Source Code Review/Decompilation.md",
     "Web/Client Side Attacks/Client-Side Prototype Pollution/Labs.md",
-    "Web/Client Side Attacks/Client-Side Prototype Pollution/5. How to prevent prototype pollution vulnerabilities.md",
-    "Web/Client Side Attacks/Client-Side Prototype Pollution/4. Prototype pollution via broswer APIs.md",
-    "Web/Client Side Attacks/Client-Side Prototype Pollution/3. Finding prototype pollution vulnerabilities.md"
+    "Web/Client Side Attacks/Client-Side Prototype Pollution/5. How to prevent prototype pollution vulnerabilities.md"
   ]
 }
